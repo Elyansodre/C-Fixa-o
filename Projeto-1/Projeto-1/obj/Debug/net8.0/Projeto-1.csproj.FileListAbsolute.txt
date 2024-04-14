@@ -1,0 +1,14 @@
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\bin\Debug\net8.0\Projeto-1.exe
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\bin\Debug\net8.0\Projeto-1.deps.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\bin\Debug\net8.0\Projeto-1.runtimeconfig.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\bin\Debug\net8.0\Projeto-1.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\bin\Debug\net8.0\Projeto-1.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\obj\Debug\net8.0\Projeto-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\obj\Debug\net8.0\Projeto-1.AssemblyInfoInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\obj\Debug\net8.0\Projeto-1.AssemblyInfo.cs
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\obj\Debug\net8.0\Projeto-1.csproj.CoreCompileInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\obj\Debug\net8.0\Projeto-1.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\obj\Debug\net8.0\refint\Projeto-1.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\obj\Debug\net8.0\Projeto-1.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\obj\Debug\net8.0\Projeto-1.genruntimeconfig.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\Projeto-1\Projeto-1\obj\Debug\net8.0\ref\Projeto-1.dll
